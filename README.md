@@ -2,7 +2,7 @@
     <span> Landing Page Food </span>
 </h1>
 
-Landing Page da Coca Cola feita com HTML, CSS, JS e jquery.
+Landing Page feita com HTML, CSS, JS e jquery.
 
 
 ## Ferramentas
